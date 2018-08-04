@@ -4,13 +4,26 @@ A Simple Blog Android app using Firebase as backend
 
 ## Features
 
-* Sign in using Google/ Facebook/ Twitter/ Email. One time sign in and you are welcome to explore all the facilities provided by the app.  
-* Post articles.
-* View articles posted by other users.
-* Search, Follow other users to know about their posts. 
-* You can Like or Comment on other users' posts too.
-* Share posts
-* Save those images that you really like, as a token of memory.
+<b>Creatinng/Registering a user</b>
+* Let's people login through their account so that the data is synced up even if they change devices
+* Let's new user's Register so that they can use the application's functionalities
+
+<b>Liking and Commenting upon a blog post</b>
+* Let's user like or comment on a post to express their opinion
+* Offline capability - People can comment and like the post while being offline and it is posted to the server when the user gains data connection
+
+<b>Changing password</b>
+* Gives user the freedom to change the password based on his desire
+
+<b>Changing Account Settings</b>
+* Letting the user change his profile image, change his name, change his username based on his requiremnents
+* once a username is registered under one user, no other user can pick that username
+
+<b>Log Out</b>
+* Letting the user log out as and when he desires 
+
+<b>Image Compression</b>
+* Compressing the uploaded images without reducing quality 
 
 
 ## Build the app
